@@ -51,7 +51,7 @@ processing input text.
 
 - OUTPUT:
 
-- 
+- ![Image](https://github.com/user-attachments/assets/345ccbe2-4e4d-479a-8e73-4c9ec01c6f76)
 
 
 
